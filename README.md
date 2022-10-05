@@ -1,2 +1,1 @@
-# react-testing-library
-This project was done during the Trybe course and was evaluated for them
+  - Nesse projeto você escreverá testes para uma aplicação React que já está criada e configurada,Você não precisará realizar nenhuma configuração adicional.
